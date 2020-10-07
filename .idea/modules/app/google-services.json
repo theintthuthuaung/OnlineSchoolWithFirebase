@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "987397996458",
+    "firebase_url": "https://onlineschoolwithfirebase.firebaseio.com",
+    "project_id": "onlineschoolwithfirebase",
+    "storage_bucket": "onlineschoolwithfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987397996458:android:759bd21068a0b230f275d3",
+        "android_client_info": {
+          "package_name": "com.example.onlineschoolwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987397996458-6uhsoop9k91n0vgvhk8102no4atnrbiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlineschoolwithfirebase",
+            "certificate_hash": "145fe298325eee56b1802d440490d8c22b3ba718"
+          }
+        },
+        {
+          "client_id": "987397996458-368af0cpdeetofc2q01gdoempv5pgt7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxmQv_yL-fRxwjinOVDk8MdvfuYxKC4U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987397996458-368af0cpdeetofc2q01gdoempv5pgt7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
